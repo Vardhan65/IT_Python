@@ -10,8 +10,8 @@ print("\n 20 - 10=",x-y)
 
 print("\n 20 * 10=",x*y)
 
-print("\n 20 - 10=",x/z)
+print("\n 20 - 10=",x/y)
 
 print("\n 20**10=",pow(x,y))
 
-print("\n 20  % 10=",x%z)
+print("\n 20  % 10=",x%y)
